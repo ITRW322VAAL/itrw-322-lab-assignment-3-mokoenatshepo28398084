@@ -1,2 +1,2 @@
-# itrw-322-lab-assignment-3-mokoenatshepo28398084
-itrw-322-lab-assignment-3-mokoenatshepo28398084 created by GitHub Classroom
+# ITRW 322 Lab Assignment 3 Mokoena Tshepo 28398084
+This is my submission of Lab Assignment 3 for ITRW322
